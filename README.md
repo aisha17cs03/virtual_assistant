@@ -1,5 +1,5 @@
 # virtual_assistant
-ello Geeks! How are you all? Now we will directly discuss about this project.
+Hello! How are you all? Now we will directly discuss about this project.
 
 [*] Requirements for executing this project >>
     1. An active Internet Connection.
